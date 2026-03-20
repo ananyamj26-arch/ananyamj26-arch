@@ -24,8 +24,6 @@ To develop strong expertise in web development by working on real-world projects
 
 
 📫 Contact
-
-- GitHub: https://github.com/ananyamj26-arch
 - LinkedIn: https://www.linkedin.com/in/ananya-j-0605ba386
 
 
